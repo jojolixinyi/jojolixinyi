@@ -1,4 +1,4 @@
-### Hi there 👋
+### ME204-02 lixinyi 👋
 
 <!--
 **jojolixinyi/jojolixinyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
